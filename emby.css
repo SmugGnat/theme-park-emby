@@ -1,9 +1,9 @@
 :root {
     --main-bg-color: #1c1c1f;
-    --modal-bg-color: #323235;
+    --modal-bg-color: #1c1c1f;
     --modal-header-color: #232323;
     --modal-footer-color: #232323;
-    --drop-down-menu-bg: #1b1b1b;
+    --drop-down-menu-bg: #323235;
     --button-color: #52b54b;
     --button-color-hover: rgb(82 181 75 / 80%);
     --button-text: #fff;
