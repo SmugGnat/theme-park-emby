@@ -12,8 +12,52 @@
     --accent-color-hover: rgb(var(--accent-color),.8);
     --link-color: #52b54b;
     --link-color-hover: #52b54b;
-    --label-text-color: #ffffff;
-    --text: #ffffff;
-    --text-hover: #ffffff;
+    --label-text-color: #fff;
+    --text: #fff;
+    --text-hover: #fff;
     --text-muted: #f00;
 }
+.form-control {
+    background-color: #37333c!important;
+    color: #fff!important;
+    border: 1px solid #52b54b!important;
+}
+::-webkit-scrollbar {
+    width: 12px;
+    background: none!important;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: .42rem!important;
+    background: rgb(255 255 255 / 35%)!important;
+}
+.sidenav-container .sidenav .mat-toolbar.application-name {
+    content: url("https://i.imgur.com/h0L0oJG.png"); width: 65%; 
+}
+button.admin-cog {
+    color: #fff!important;
+}
+button.admin-cog:hover {
+    color: #52b54b!important;
+}
+a.media-icons:hover{color:#52b54b!important;}
+.viewon-btn.emby {
+    background: var(--button-color)!important;
+    color: #fff!important;
+}
+.top-search-bar .mat-form-field-flex {
+    border: 1px solid #52b54b!important;
+    background-color: #37333c!important;
+    border-radius: 0.25rem!important;
+}
+.login-card .mat-input-element, .mat-input-element {
+    caret-color: #fff!important;
+}
+span.ng-tns-c83-2.ng-star-inserted {color:#7a7a7a!important}
+.sidenav-container .sidenav .active-list-item, .sidenav-container .sidenav .active-list-item:hover {
+    color: rgb(var(--accent-color))!important;
+    background: rgb(82 181 75 / 20%)!important;
+}
+.mat-list-option:hover:not(.active-list-item), .sidenav-container .sidenav .mat-action-list .mat-list-item:hover:not(.active-list-item), .sidenav-container .sidenav .mat-nav-list .mat-list-item:hover:not(.active-list-item) {
+    background: rgb(255 255 255 / 25%);
+}
+.sidenav-container .sidenav .menu-spacing{margin-bottom:-2%;}
