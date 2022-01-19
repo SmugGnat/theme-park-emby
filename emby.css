@@ -49,7 +49,7 @@ a.media-icons:hover{color:#52b54b!important;}
     background-color: #37333c!important;
     border-radius: 0.25rem!important;
 }
-.top-search-bar .mat-form-field-infix {
+.top-search-bar .mat-form-field-flex {
     height: 35px!important;
 }
 .top-search-bar .mat-form-field-infix {
