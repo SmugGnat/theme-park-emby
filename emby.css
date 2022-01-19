@@ -51,6 +51,8 @@ a.media-icons:hover{color:#52b54b!important;}
 }
 .top-search-bar .mat-form-field-inflex {
     height: 35px!important;
+}
+.top-search-bar .mat-form-field-infix {
     margin-left: 10px!important;
     margin-top: -3px!important;
 }
