@@ -4,7 +4,7 @@
     --modal-header-color: #232323;
     --modal-footer-color: #232323;
     --drop-down-menu-bg: #323235;
-    --button-color: #52b54b;
+    --button-color: hsla(285, 4.2%, calc(18.8% + 28%), .5);
     --button-color-hover: rgb(82 181 75 / 80%);
     --button-text: #fff;
     --button-text-hover: #fff;
