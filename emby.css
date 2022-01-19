@@ -48,6 +48,7 @@ a.media-icons:hover{color:#52b54b!important;}
     border: 1px solid #52b54b!important;
     background-color: #37333c!important;
     border-radius: 0.25rem!important;
+    height: 35px!important;
 }
 .login-card .mat-input-element, .mat-input-element {
     caret-color: #fff!important;
