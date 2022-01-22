@@ -30,9 +30,6 @@
     border-radius: .42rem!important;
     background: rgb(255 255 255 / 35%)!important;
 }
-.sidenav-container .sidenav .mat-toolbar.application-name {
-    content: url("https://i.imgur.com/h0L0oJG.png"); width: 65%; 
-}
 button.admin-cog {
     color: #fff!important;
 }
