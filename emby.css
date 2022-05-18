@@ -43,9 +43,10 @@ a.media-icons:hover{color:#52b54b!important;}
 }
 .top-search-bar .mat-form-field-flex {
     border: 1px solid #52b54b!important;
-    background-color: #37333c!important;
+    background-color: rgb(55 51 60 / 50%)!important;
     border-radius: 0.25rem!important;
     height: 35px!important;
+    backdrop-filter: saturate(1.8) blur(1.5em)!important;
 }
 .top-search-bar .mat-form-field-infix {
     margin-left: 10px!important;
